@@ -1,18 +1,18 @@
 [
     {
         "title": "Java",
-        "imageSrc": "skills/html.png"
+        "imageSrc": "skills/java.png"
     },
     {
         "title": "Python",
-        "imageSrc": "skills/css.png"
+        "imageSrc": "skills/python.png"
     },
     {
-        "title": "Javascript",
-        "imageSrc": "skills/css.png"
+        "title": "C",
+        "imageSrc": "skills/letter-c.png"
     },
     {
         "title": "C++",
-        "imageSrc": "skills/css.png"
+        "imageSrc": "skills/c-.png"
     }
 ]

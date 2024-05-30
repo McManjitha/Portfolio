@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "DigiDeeds",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/McManjitha/fyp_frontend.git"
   },
   {
-    "title": "Project B",
+    "title": "Logic Gate circuit Simulation Software",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "skills": ["Python", "C++", "Data Structures"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/McManjitha/Logic_Gate_sim_repo.git"
   },
   {
-    "title": "Project C",
+    "title": "License Plate detection System",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["Python", "OpenCV", "ML", "CNN"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/McManjitha/LicensePlateDetection.git"
   }
 ]
