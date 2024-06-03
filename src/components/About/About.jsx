@@ -9,7 +9,7 @@ import software from "../../data/software.json";
 export const About = () => {
   return (
     <section className={styles.container} id="about">
-      <h2 className={styles.title}>About</h2>
+      <h2 className={styles.title}>Skills</h2>
       <div className={styles.content}>
         <ul className={styles.aboutItems}>
           <li className={styles.row}>

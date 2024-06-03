@@ -89,6 +89,9 @@
     padding-left: 0;
     padding-right: 0;
   }
+  .aboutItem p{
+    font-size: 20px;
+  }
 }
 
 .content {
@@ -119,8 +122,14 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 120px;
-  height: 120px;
+  width: 100px;
+  height: 100px;
+}
+@media (max-width: 768px) { /* Adjust the breakpoint as needed */
+  .skillImageContainer {
+    width: 60px; /* Or height, or both */
+    height: 60px;
+  }
 }
 
 .skillImageContainer img {
@@ -131,6 +140,12 @@
   font-size: 25px;
   font-family: var(--font-roboto);
   font-weight: 500;
+}
+@media (max-width: 768px) { /* Adjust the breakpoint as needed */
+  .skill p {
+    font-size: 18px;
+    font-weight: 400;
+  }
 }
 .row{
   display: flex;
